@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="13293514-ba46-418b-adeb-ce6daad0cb3e" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="PeopleApp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

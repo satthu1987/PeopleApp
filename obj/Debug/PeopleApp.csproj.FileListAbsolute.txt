@@ -1,0 +1,5 @@
+D:\Du lieu o E\Vincent\Project\SharepointOnline\VisualWebpart\PeopleApp\bin\Debug\PeopleApp.pdb
+D:\Du lieu o E\Vincent\Project\SharepointOnline\VisualWebpart\PeopleApp\obj\Debug\PeopleApp.csproj.CoreCompileInputs.cache
+D:\Du lieu o E\Vincent\Project\SharepointOnline\VisualWebpart\PeopleApp\obj\Debug\PeopleApp.dll
+D:\Du lieu o E\Vincent\Project\SharepointOnline\VisualWebpart\PeopleApp\obj\Debug\PeopleApp.pdb
+D:\Du lieu o E\Vincent\Project\SharepointOnline\VisualWebpart\PeopleApp\obj\Debug\PeopleApp.csprojAssemblyReference.cache

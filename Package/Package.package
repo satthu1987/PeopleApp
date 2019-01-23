@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="13293514-ba46-418b-adeb-ce6daad0cb3e" solutionId="13293514-ba46-418b-adeb-ce6daad0cb3e" resetWebServer="false" sharePointProductVersion="16.0" name="PeopleApp" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="1d4352db-7b35-4cce-a5fd-73e266b4b5b9" />
+  </features>
+</package>

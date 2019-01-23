@@ -1,0 +1,23 @@
+﻿<a href="#/addPerson" class="add-new-button">Add New Person</a>
+<a href="#/searchPerson" class="add-new-button">Search Person</a>
+<div class="all-people">
+    <table>
+        <tbody>
+            <tr>
+                <th>Fist Name</th>
+                <th>Last Name</th>
+                <th>Address</th>
+                <th>Action</th>
+            </tr>
+            <tr data-ng-repeat="person in people">
+                <td>{{person.FirstName}}</td>
+                <td>{{person.LastName}}</td>
+                <td>{{person.Address}}</td>
+                <td>
+                    <a href="#/editPerson/{{person.ID}}"><img src="../Images/edit.png" alt=""></a>
+                    <a href="" data-ng-click="removePerson(person)"><img src="../Images/delete.png" alt=""></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
